@@ -73,7 +73,7 @@ img {
 }
 
 img:hover {
-  background-color: blue;
+  background-color: rgb(255, 187, 0);
 }
 
 @include media-breakpoint-between(md, xl) {
